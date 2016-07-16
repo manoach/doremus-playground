@@ -4,7 +4,9 @@
 
 <ol>
 <li>DS1: Consists of a  pair of small datasets containing each 17 musical works. These data manifest nine heterogeneities: letters and numbers in the property values, orthographic differences, missing catalog numbers and/or opus numbers, multilingualism in titles, presence of diacritical characters, different value distances to the resource, different properties describing the same information, missing properties (lack of description) and missing titles.</li> 
-<li>DS1: Consists of a  pair of larger datasets containing each 132 musical works. These data manifest four heterogeneities: multilingual titles, missing properties, terminological heterogeneity (differences in spelling) and missing titles.</li> 
+
+<li>DS2: Consists of a  pair of larger datasets containing each 132 musical works. These data manifest four heterogeneities: multilingual titles, missing properties, terminological heterogeneity (differences in spelling) and missing titles.</li> 
+
 <li> DS3: Consists of a pair of medium size datasets containing each 32 musical works. Contrarily to the other 2 datasets, these data are characterized by very significant similarities in the description of equivalent resources across datasets. They contain blocks of pairs of works that all have the same composer, same title and same genre, although only one pair of works is a correct match, which can lead to the generation of errors in the matching process. Therefore, the aim here consists in verifying the effectiveness of our framework at distinguishing between true positive matches and false positive matches.</li> 
 </ol>
 
