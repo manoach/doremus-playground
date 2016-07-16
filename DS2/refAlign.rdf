@@ -1,0 +1,266 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF xmlns="http://knowledgeweb.semanticweb.org/heterogeneity/alignment"
+xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+xmlns:xsd="http://www.w3.org/2001/XMLSchema#">
+<Alignment>
+<xml>yes</xml>
+<level>0</level>
+<type>??</type>
+<map>
+<Cell>
+<entity1 rdf:resource="http://data.doremus.org/Self_Contained_Expression/F22/800fbeae-96b8-43cf-b4cc-3785c0d7194f"/>
+<entity2 rdf:resource="http://data.doremus.org/Self_Contained_Expression/F22/34c3aa86-d110-4913-b59d-c66f774d170e"/>
+<measure rdf:datatype="xsd:float">1.0</measure>
+<relation>=</relation>
+</Cell>
+</map>
+<map>
+<Cell>
+<entity1 rdf:resource="http://data.doremus.org/Self_Contained_Expression/F22/5ffa812a-eaad-4c05-aa2c-4f21c4cd4c8b"/>
+<entity2 rdf:resource="http://data.doremus.org/Self_Contained_Expression/F22/869538e9-2dc9-4d7c-8710-3642e2febcc8"/>
+<measure rdf:datatype="xsd:float">1.0</measure>
+<relation>=</relation>
+</Cell>
+</map>
+<map>
+<Cell>
+<entity1 rdf:resource="http://data.doremus.org/Self_Contained_Expression/F22/f4591478-9123-495d-b328-7e39b243b105"/>
+<entity2 rdf:resource="http://data.doremus.org/Self_Contained_Expression/F22/353a0445-0ea6-46d4-b354-8a0eaad661bf"/>
+<measure rdf:datatype="xsd:float">1.0</measure>
+<relation>=</relation>
+</Cell>
+</map>
+<map>
+<Cell>
+<entity1 rdf:resource="http://data.doremus.org/Self_Contained_Expression/F22/3bf59ec5-f3c8-488a-ad64-5d95e526023c"/>
+<entity2 rdf:resource="http://data.doremus.org/Self_Contained_Expression/F22/d986a630-584b-4327-bd4a-4318783376d2"/>
+<measure rdf:datatype="xsd:float">1.0</measure>
+<relation>=</relation>
+</Cell>
+</map>
+<map>
+<Cell>
+<entity1 rdf:resource="http://data.doremus.org/Self_Contained_Expression/F22/4251c4e9-d6dc-4378-b16c-505fcb750567"/>
+<entity2 rdf:resource="http://data.doremus.org/Self_Contained_Expression/F22/efb0d462-3b51-43d5-bb24-032261f99a63"/>
+<measure rdf:datatype="xsd:float">1.0</measure>
+<relation>=</relation>
+</Cell>
+</map>
+<map>
+<Cell>
+<entity1 rdf:resource="http://data.doremus.org/Self_Contained_Expression/F22/3b6495d9-54d4-4863-ba75-057e9ce9e633"/>
+<entity2 rdf:resource="http://data.doremus.org/Self_Contained_Expression/F22/89338d05-3244-42f8-84af-238ef607d9b8"/>
+<measure rdf:datatype="xsd:float">1.0</measure>
+<relation>=</relation>
+</Cell>
+</map>
+<map>
+<Cell>
+<entity1 rdf:resource="http://data.doremus.org/Self_Contained_Expression/F22/66c82eff-8812-44d3-a74f-189e90865dcb"/>
+<entity2 rdf:resource="http://data.doremus.org/Self_Contained_Expression/F22/f6b33db3-f4c5-4da3-9ba0-539d9f227c7f"/>
+<measure rdf:datatype="xsd:float">1.0</measure>
+<relation>=</relation>
+</Cell>
+</map>
+<map>
+<Cell>
+<entity1 rdf:resource="http://data.doremus.org/Self_Contained_Expression/F22/a32e7720-d024-47fc-b3f7-e76b693d178f"/>
+<entity2 rdf:resource="http://data.doremus.org/Self_Contained_Expression/F22/dbdb2b8a-8374-44ac-b394-291dbb4d0507"/>
+<measure rdf:datatype="xsd:float">1.0</measure>
+<relation>=</relation>
+</Cell>
+</map>
+<map>
+<Cell>
+<entity1 rdf:resource="http://data.doremus.org/Self_Contained_Expression/F22/a8401ca1-0d3b-4539-84a3-006c81d40732"/>
+<entity2 rdf:resource="http://data.doremus.org/Self_Contained_Expression/F22/daf9f642-6e8e-41fe-bc68-f1d75ea194c8"/>
+<measure rdf:datatype="xsd:float">1.0</measure>
+<relation>=</relation>
+</Cell>
+</map>
+<map>
+<Cell>
+<entity1 rdf:resource="http://data.doremus.org/Self_Contained_Expression/F22/4ca51cd8-b386-4dd3-a812-cdad7b729f01"/>
+<entity2 rdf:resource="http://data.doremus.org/Self_Contained_Expression/F22/b3a96507-2b2d-4906-850c-110de8061e40"/>
+<measure rdf:datatype="xsd:float">1.0</measure>
+<relation>=</relation>
+</Cell>
+</map>
+<map>
+<Cell>
+<entity1 rdf:resource="http://data.doremus.org/Self_Contained_Expression/F22/62c11b72-6864-4d46-beeb-5d29fac55d90"/>
+<entity2 rdf:resource="http://data.doremus.org/Self_Contained_Expression/F22/7f095c1c-15b7-46c0-ba51-1d089dcaecb4"/>
+<measure rdf:datatype="xsd:float">1.0</measure>
+<relation>=</relation>
+</Cell>
+</map>
+<map>
+<Cell>
+<entity1 rdf:resource="http://data.doremus.org/Self_Contained_Expression/F22/1ecd6539-424d-4340-acdd-fa13c1d427fa"/>
+<entity2 rdf:resource="http://data.doremus.org/Self_Contained_Expression/F22/38e7ebbd-99c7-4b7c-9cd0-5d3fd077c2f1"/>
+<measure rdf:datatype="xsd:float">1.0</measure>
+<relation>=</relation>
+</Cell>
+</map>
+<map>
+<Cell>
+<entity1 rdf:resource="http://data.doremus.org/Self_Contained_Expression/F22/793355fb-4e8a-4db3-b37c-011990259fbc"/>
+<entity2 rdf:resource="http://data.doremus.org/Self_Contained_Expression/F22/ba235f6b-8668-46ff-92f8-9edfedf4c7ff"/>
+<measure rdf:datatype="xsd:float">1.0</measure>
+<relation>=</relation>
+</Cell>
+</map>
+<map>
+<Cell>
+<entity1 rdf:resource="http://data.doremus.org/Self_Contained_Expression/F22/edf29a24-e8d9-4731-81ea-d293db61a889"/>
+<entity2 rdf:resource="http://data.doremus.org/Self_Contained_Expression/F22/07f61d84-ea9c-4e1c-8a2e-421360da4897"/>
+<measure rdf:datatype="xsd:float">1.0</measure>
+<relation>=</relation>
+</Cell>
+</map>
+<map>
+<Cell>
+<entity1 rdf:resource="http://data.doremus.org/Self_Contained_Expression/F22/0bf64d69-9b81-4ad6-8166-6ead4a4b3c32"/>
+<entity2 rdf:resource="http://data.doremus.org/Self_Contained_Expression/F22/75d66d31-9348-4447-8b08-d451b071dfd8"/>
+<measure rdf:datatype="xsd:float">1.0</measure>
+<relation>=</relation>
+</Cell>
+</map>
+<map>
+<Cell>
+<entity1 rdf:resource="http://data.doremus.org/Self_Contained_Expression/F22/2f696ca1-7c9f-4b9f-8005-e05a07eb6885"/>
+<entity2 rdf:resource="http://data.doremus.org/Self_Contained_Expression/F22/efd552c0-38ef-48ab-b87d-cc231b74304e"/>
+<measure rdf:datatype="xsd:float">1.0</measure>
+<relation>=</relation>
+</Cell>
+</map>
+<map>
+<Cell>
+<entity1 rdf:resource="http://data.doremus.org/Self_Contained_Expression/F22/3fc52fc4-22bc-4a82-8052-76f3cf307759"/>
+<entity2 rdf:resource="http://data.doremus.org/Self_Contained_Expression/F22/b89732d5-44c7-4d43-8cfb-528e1163a8a7"/>
+<measure rdf:datatype="xsd:float">1.0</measure>
+<relation>=</relation>
+</Cell>
+</map>
+<map>
+<Cell>
+<entity1 rdf:resource="http://data.doremus.org/Self_Contained_Expression/F22/cb2f4411-4c4f-410c-946f-6c286848e434"/>
+<entity2 rdf:resource="http://data.doremus.org/Self_Contained_Expression/F22/3f98bd32-dcd6-49ff-8f15-596f76f2a3db"/>
+<measure rdf:datatype="xsd:float">1.0</measure>
+<relation>=</relation>
+</Cell>
+</map>
+<map>
+<Cell>
+<entity1 rdf:resource="http://data.doremus.org/Self_Contained_Expression/F22/db36ffd6-ae80-475d-be8f-e1758fe99060"/>
+<entity2 rdf:resource="http://data.doremus.org/Self_Contained_Expression/F22/65d121ee-8912-4e17-8c90-ec7cefc937d6"/>
+<measure rdf:datatype="xsd:float">1.0</measure>
+<relation>=</relation>
+</Cell>
+</map>
+<map>
+<Cell>
+<entity1 rdf:resource="http://data.doremus.org/Self_Contained_Expression/F22/f6540c8c-13a5-41d9-8527-80c2645d7940"/>
+<entity2 rdf:resource="http://data.doremus.org/Self_Contained_Expression/F22/dab5890c-abe6-45f8-b7dc-2792751b0f77"/>
+<measure rdf:datatype="xsd:float">1.0</measure>
+<relation>=</relation>
+</Cell>
+</map>
+<map>
+<Cell>
+<entity1 rdf:resource="http://data.doremus.org/Self_Contained_Expression/F22/cd66a939-5d4b-4e0d-b528-6f00dde68bfb"/>
+<entity2 rdf:resource="http://data.doremus.org/Self_Contained_Expression/F22/a0b88964-33f0-4b14-83e9-0d53cfdf9c3e"/>
+<measure rdf:datatype="xsd:float">1.0</measure>
+<relation>=</relation>
+</Cell>
+</map>
+<map>
+<Cell>
+<entity1 rdf:resource="http://data.doremus.org/Self_Contained_Expression/F22/323b1371-3303-4779-bcf9-bf33a09e72dd"/>
+<entity2 rdf:resource="http://data.doremus.org/Self_Contained_Expression/F22/e3246a0a-f41c-4ccf-8bbd-a09b93122062"/>
+<measure rdf:datatype="xsd:float">1.0</measure>
+<relation>=</relation>
+</Cell>
+</map>
+<map>
+<Cell>
+<entity1 rdf:resource="http://data.doremus.org/Self_Contained_Expression/F22/30c4638e-fbb7-42d4-bed7-de57f9604990"/>
+<entity2 rdf:resource="http://data.doremus.org/Self_Contained_Expression/F22/96bdd2b0-9196-4cc1-8ce8-8cd923131f83"/>
+<measure rdf:datatype="xsd:float">1.0</measure>
+<relation>=</relation>
+</Cell>
+</map>
+<map>
+<Cell>
+<entity1 rdf:resource="http://data.doremus.org/Self_Contained_Expression/F22/b3a2bb1a-151a-4f6e-86cf-8b2070ac1442"/>
+<entity2 rdf:resource="http://data.doremus.org/Self_Contained_Expression/F22/2bbd14cc-27fc-4c56-a545-27de9c5a370b"/>
+<measure rdf:datatype="xsd:float">1.0</measure>
+<relation>=</relation>
+</Cell>
+</map>
+<map>
+<Cell>
+<entity1 rdf:resource="http://data.doremus.org/Self_Contained_Expression/F22/921ec71a-f720-4eeb-a632-50634c43c694"/>
+<entity2 rdf:resource="http://data.doremus.org/Self_Contained_Expression/F22/66522eed-16ab-47c8-a786-030dbd016953"/>
+<measure rdf:datatype="xsd:float">1.0</measure>
+<relation>=</relation>
+</Cell>
+</map>
+<map>
+<Cell>
+<entity1 rdf:resource="http://data.doremus.org/Self_Contained_Expression/F22/3e35cc07-f0a5-44c6-828b-6986b670bf85"/>
+<entity2 rdf:resource="http://data.doremus.org/Self_Contained_Expression/F22/9825a4c8-a343-4277-8c54-775e2f82321a"/>
+<measure rdf:datatype="xsd:float">1.0</measure>
+<relation>=</relation>
+</Cell>
+</map>
+<map>
+<Cell>
+<entity1 rdf:resource="http://data.doremus.org/Self_Contained_Expression/F22/0e87a8b2-88fd-4e33-8c67-da3623258bbf"/>
+<entity2 rdf:resource="http://data.doremus.org/Self_Contained_Expression/F22/e95ff5fd-08c5-4212-878b-b50531174c72"/>
+<measure rdf:datatype="xsd:float">1.0</measure>
+<relation>=</relation>
+</Cell>
+</map>
+<map>
+<Cell>
+<entity1 rdf:resource="http://data.doremus.org/Self_Contained_Expression/F22/3f699ddb-bc46-4675-8e78-e906a902cf54"/>
+<entity2 rdf:resource="http://data.doremus.org/Self_Contained_Expression/F22/4d8645b1-2e9b-46ca-a2b8-f4386f3d5b0f"/>
+<measure rdf:datatype="xsd:float">1.0</measure>
+<relation>=</relation>
+</Cell>
+</map>
+<map>
+<Cell>
+<entity1 rdf:resource="http://data.doremus.org/Self_Contained_Expression/F22/e49a4311-2d83-4e40-8219-c81389abd16b"/>
+<entity2 rdf:resource="http://data.doremus.org/Self_Contained_Expression/F22/c5e5c8ce-2275-40ee-9356-4fc471ea36db"/>
+<measure rdf:datatype="xsd:float">1.0</measure>
+<relation>=</relation>
+</Cell>
+</map>
+<map>
+<Cell>
+<entity1 rdf:resource="http://data.doremus.org/Self_Contained_Expression/F22/3bc91c28-2bd5-4896-ac2e-91fab9b0aaf6"/>
+<entity2 rdf:resource="http://data.doremus.org/Self_Contained_Expression/F22/3b8563c1-9a75-4c08-a818-64fd7e172d5e"/>
+<measure rdf:datatype="xsd:float">1.0</measure>
+<relation>=</relation>
+</Cell>
+</map>
+<map>
+<Cell>
+<entity1 rdf:resource="http://data.doremus.org/Self_Contained_Expression/F22/e3aa2859-6920-40fa-9847-5b097e2bea18"/>
+<entity2 rdf:resource="http://data.doremus.org/Self_Contained_Expression/F22/93da18b0-8be9-4b93-b8a7-c9564babb721"/>
+<measure rdf:datatype="xsd:float">1.0</measure>
+<relation>=</relation>
+</Cell>
+</map>
+<map>
+<Cell>
+<entity1 rdf:resource="http://data.doremus.org/Self_Contained_Expression/F22/1060f0ad-ce70-4e6f-bd19-42405b223a6a"/>
+<entity2 rdf:resource="http://data.doremus.org/Self_Contained_Expression/F22/da070b0f-4b40-423c-95ce-4e65aed65845"/>
+<measure rdf:datatype="xsd:float">1.0</measure>
+<relation>=</relation>
+</Cell>
+</map>
+</Alignment>
+</rdf:RDF>
